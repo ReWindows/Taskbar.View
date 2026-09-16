@@ -1,0 +1,18 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from Taskbar.View.dll by Windissect. 3 member(s).
+namespace winrt {
+class hresult_no_interface {
+public:
+    // Category: Ctor | Source: PDB Internal
+    // Symbol: ??0hresult_no_interface@winrt@@QEAA@XZ
+    hresult_no_interface();
+    // Category: Ctor | Source: PDB Internal
+    // Symbol: ??0hresult_no_interface@winrt@@QEAA@AEBU01@@Z
+    hresult_no_interface(WindissectOpaque const &);
+    // Category: Dtor | Source: PDB Internal
+    // Symbol: ??1hresult_no_interface@winrt@@QEAA@XZ
+    ~hresult_no_interface();
+};
+} // namespace winrt

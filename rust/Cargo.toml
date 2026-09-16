@@ -1,0 +1,8 @@
+[package]
+name = "taskbar-view-sys"
+version = "0.1.0"
+edition = "2021"
+description = "Windissect-generated Rust FFI bindings for Taskbar.View.dll. Windows only."
+license = "MIT"
+
+[dependencies]
